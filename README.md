@@ -21,5 +21,5 @@
 
 2. Here’s a screen recording of the app in action:
 ```markdown
-     [![Watch the demo](https://img.youtube.com/vi/1bcI1WZVs_Q/0.jpg)](https://youtu.be/1bcI1WZVs_Q)
+     [![Watch the demo](https://youtu.be/1bcI1WZVs_Q)]
      ```
