@@ -17,3 +17,9 @@
 1. Clone this repository:
    ```bash
    git clone https://github.com/dannita25/7-Pioneers.git
+# App Demo
+
+2. Here’s a screen recording of the app in action:
+```markdown
+     [![Watch the demo](https://img.youtube.com/vi/1bcI1WZVs_Q/0.jpg)](https://youtu.be/1bcI1WZVs_Q)
+     ```
